@@ -1,0 +1,6 @@
+c:\users\123\documents\visual studio 2015\Projects\NormalizePath\NormalizePath\bin\Debug\NormalizePath.exe.config
+c:\users\123\documents\visual studio 2015\Projects\NormalizePath\NormalizePath\bin\Debug\NormalizePath.exe
+c:\users\123\documents\visual studio 2015\Projects\NormalizePath\NormalizePath\bin\Debug\NormalizePath.pdb
+c:\users\123\documents\visual studio 2015\Projects\NormalizePath\NormalizePath\obj\Debug\NormalizePath.csprojResolveAssemblyReference.cache
+c:\users\123\documents\visual studio 2015\Projects\NormalizePath\NormalizePath\obj\Debug\NormalizePath.exe
+c:\users\123\documents\visual studio 2015\Projects\NormalizePath\NormalizePath\obj\Debug\NormalizePath.pdb
