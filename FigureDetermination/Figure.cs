@@ -26,8 +26,9 @@ namespace FigureDetermination
                 }
             }
 
+
             var diagonal = (points[max].X - points[min].X) * (points[max].X - points[min].X) + (points[max].Y - points[min].Y) * (points[max].Y - points[min].Y);
-            var diagonalSqrt = Math.Sqrt(diagonal);
+
 
             int id = 0;
 
@@ -39,6 +40,7 @@ namespace FigureDetermination
             {
                 id = min > max ? min + 1 : max + 1;
             }
+
 
             var a = (points[max].X - points[id].X) * (points[max].X - points[id].X) + (points[max].Y - points[id].Y) * (points[max].Y - points[id].Y);
 
