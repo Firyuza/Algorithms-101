@@ -1,0 +1,6 @@
+c:\users\firiuza.shigapova\documents\visual studio 2013\Projects\MatrixMedian\MatrixMedian\bin\Debug\MatrixMedian.exe.config
+c:\users\firiuza.shigapova\documents\visual studio 2013\Projects\MatrixMedian\MatrixMedian\bin\Debug\MatrixMedian.exe
+c:\users\firiuza.shigapova\documents\visual studio 2013\Projects\MatrixMedian\MatrixMedian\bin\Debug\MatrixMedian.pdb
+c:\users\firiuza.shigapova\documents\visual studio 2013\Projects\MatrixMedian\MatrixMedian\obj\Debug\MatrixMedian.csprojResolveAssemblyReference.cache
+c:\users\firiuza.shigapova\documents\visual studio 2013\Projects\MatrixMedian\MatrixMedian\obj\Debug\MatrixMedian.exe
+c:\users\firiuza.shigapova\documents\visual studio 2013\Projects\MatrixMedian\MatrixMedian\obj\Debug\MatrixMedian.pdb

@@ -1,0 +1,6 @@
+c:\users\123\documents\visual studio 2015\Projects\AvoidDuplicates\AvoidDuplicates\bin\Debug\AvoidDuplicates.exe.config
+C:\Users\123\documents\visual studio 2015\Projects\AvoidDuplicates\AvoidDuplicates\bin\Debug\AvoidDuplicates.exe
+C:\Users\123\documents\visual studio 2015\Projects\AvoidDuplicates\AvoidDuplicates\bin\Debug\AvoidDuplicates.pdb
+C:\Users\123\documents\visual studio 2015\Projects\AvoidDuplicates\AvoidDuplicates\obj\Debug\AvoidDuplicates.csprojResolveAssemblyReference.cache
+C:\Users\123\documents\visual studio 2015\Projects\AvoidDuplicates\AvoidDuplicates\obj\Debug\AvoidDuplicates.exe
+C:\Users\123\documents\visual studio 2015\Projects\AvoidDuplicates\AvoidDuplicates\obj\Debug\AvoidDuplicates.pdb
