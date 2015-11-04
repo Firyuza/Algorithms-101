@@ -11,6 +11,8 @@ namespace SubarrayMaxSum
             var last = 0;
             var sum = 0;
             var indices = new List<Indices>();
+            var negativeSum = 0;
+            var negativeId = 0;
 
             var i = 0;
             while(i > 0 && i < arr.Length && arr[i] < 0)
@@ -18,9 +20,17 @@ namespace SubarrayMaxSum
                 i++;
             }
 
-            begin = i;
-            last = i;
-            sum += arr[i];
+            if (i != arr.Length)
+            {
+                begin = i;
+                last = i;
+                sum += arr[i];
+            }
+            else
+            {
+                //if array contains only negative numbers
+                negativeSum = arr[0];
+            }
 
             for(i = i + 1; i < arr.Length; i++)
             {
@@ -35,6 +45,15 @@ namespace SubarrayMaxSum
                             Sum = sum
                         });
                     }
+                    else
+                    {
+                        if (negativeSum < arr[i])
+                        {
+                            negativeSum = arr[i];
+                            negativeId = i;
+                        }
+                    }
+
                 }
                 else
                 {
@@ -53,13 +72,22 @@ namespace SubarrayMaxSum
                 }
             }
 
-            if(last == i - 1)
+            if (last == i - 1)
             {
                 indices.Add(new Indices
                 {
                     Begin = begin,
                     Last = last,
                     Sum = sum
+                });
+            }
+            else
+            {
+                indices.Add(new Indices
+                {
+                    Begin = negativeId,
+                    Last = negativeId,
+                    Sum = negativeSum
                 });
             }
 
